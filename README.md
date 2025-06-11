@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @KaraM-99 
+- 👀 I’m interested in Cloud Computing and AI
+- 🌱 I’m currently learning how to code using different programming languages
+- 💞️ I’m looking to collaborate on a project to build a Setswana to english language bot
+- 📫 How to reach karabomachokoto@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I like to build lego puzzles
+- KaraM-99/KaraM-99 is a future tech guru who will specialize in cloud security and AI infrastructurer
