@@ -8,7 +8,7 @@
 ## 🛠️ What I'm Learning
 - AWS Cloud & AI Fundamentals  
 - Python for cloud and automation  
-- Git, GitHub, and Linux basics  
+- Java, JavaScript, Linux basics  
 - Intro to DevOps (Terraform, Docker, CI/CD)  
 - AI and machine learning on AWS  
 
