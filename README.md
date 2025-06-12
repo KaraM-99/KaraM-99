@@ -5,8 +5,8 @@
 🎒 Transitioning from finance to tech — driven to build intelligent, scalable solutions  
 💡 Exploring the intersection of cloud and artificial intelligence  
 
-## 🛠️ What I'm Learning
-- AWS Cloud & AI Fundamentals  
+## 🛠️ Tools and Interests
+- AWS (Cloud Practitioner & AI Fundamentals)  
 - Python for cloud and automation  
 - Java, JavaScript, Linux basics  
 - Intro to DevOps (Terraform, Docker, CI/CD)  
@@ -15,8 +15,7 @@
 ## 🚀 Goals
 - Get certified in AWS Cloud & AI  
 - Build real-world projects combining cloud and AI  
-- Contribute to open-source cloud/AI tools  
-- Launch a blog to document and share my learning journey  
+- Contribute to open-source cloud/AI tools    
 - Move to the US to study and grow my tech career 🇺🇸  
 
 ## 🌟 Fun Facts 
