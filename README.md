@@ -15,8 +15,7 @@
 ## 🚀 Goals
 - Get certified in AWS Cloud & AI  
 - Build real-world projects combining cloud and AI  
-- Contribute to open-source cloud/AI tools    
-- Move to the US to study and grow my tech career 🇺🇸  
+- Contribute to open-source cloud/AI tools      
 
 ## 🌟 Fun Facts 
 - Future-focused: from finance & procurement to cloud and AI-powered solutions  
