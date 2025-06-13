@@ -18,7 +18,8 @@
 - Contribute to open-source cloud/AI tools      
 
 ## 🌟 Fun Facts 
-- Future-focused: from finance & procurement to cloud and AI-powered solutions  
+- Future-focused: from finance & procurement to cloud and AI-powered solutions
+- Part of a Disney International Program 2025-2026   
 ## 🔗 Let's Connect
 [Instagram] (https://www.instagram.com/gorgeouscita?igsh=dWlsYXd4Y2s1eG4w&utm_source=qr)
 [LinkedIn] (https://www.linkedin.com/in/karabo-machokoto-14660a224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
