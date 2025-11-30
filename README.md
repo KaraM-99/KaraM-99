@@ -1,8 +1,8 @@
 # 👋🏽 Hi, I'm Karabo Machokoto
 🎓 Computer Science Student(focused on Cloud Computing,AI & Data Analysis)
-🌍 Based in Botswana| 🌐 Passionate about AWS, Artificial Intelligence, and cloud automation  
+🌍 Based in United States| 🌐 Passionate about AWS, Artificial Intelligence, and cloud automation  
 🎯 Preparing for CompTIA exams, AWS exams.
-🎒 Transitioning from Procurement/finance to tech — driven to build intelligent, scalable solutions  
+🎒 Transitioning from Procurement to tech — driven to build intelligent, scalable solutions  
 💡 Exploring the intersection of cloud and artificial intelligence  
 
 ## 🛠️ Tools and Interests
@@ -19,7 +19,7 @@
 - Build as many personal projects as I can    
 
 ## 🌟 Fun Facts 
-- Future-focused: From business accountancy student to cloud and AI-powered solutions
+- Beauty and Fashion Content Creator
 - Part of a Disney International Program 2025-2026  
 ## 🔗 Let's Connect
 [Instagram] (https://www.instagram.com/gorgeouscita?igsh=dWlsYXd4Y2s1eG4w&utm_source=qr)
