@@ -1,7 +1,6 @@
 # 👋🏽 Hi, I'm Karabo Machokoto
 🎓 Computer Science Student(focused on Cloud Computing,AI & Data Analysis)
 🌍 Based in United States| 🌐 Passionate about AWS, Artificial Intelligence, and cloud automation  
-🎯 Preparing for CompTIA exams, AWS exams.
 🎒 Transitioning from Procurement to tech — driven to build intelligent, scalable solutions  
 💡 Exploring the intersection of cloud and artificial intelligence  
 
